@@ -19,7 +19,7 @@
 text {
   max-width: 100vw;
   min-width: 100vw;
-  font-size: 16vh;
+  font-size: 10vmax;
   font-family: 'Rajdhani Regular';
   font-weight: bolder;
   letter-spacing: .25vw;

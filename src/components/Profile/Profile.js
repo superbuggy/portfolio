@@ -7,7 +7,7 @@ export const Profile = props => {
   return (
     <div className='profile'>
       <header>
-        <Moon size={window.innerHeight / 5} />
+        <Moon size={window.innerHeight / 4} />
         {/* <h1>
           James
         </h1>
