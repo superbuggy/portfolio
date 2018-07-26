@@ -2,6 +2,7 @@ import React from 'react'
 
 export default ({text, order}) => {
   const height = window.innerHeight / 6
+  console.log(height)
   return (
     <svg viewBox={`0 0 ${window.innerWidth} ${height}`} height={height}>
       <text
