@@ -9,7 +9,6 @@ export default ({text, order}) => {
         textAnchor={'middle'}
         x={window.innerWidth / 2}
         y={height / 2}
-        // dx={'8%'}
         dy={height / 3}
         paintOrder={'stroke'}
         stroke={'#ffe682'}
